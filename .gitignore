@@ -3,3 +3,4 @@ node_modules/
 dist/
 build/
 *.log
+/power_seeking_exposition_codex_handoff.md
